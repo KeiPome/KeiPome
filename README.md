@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KeiPome
 - 👀 I’m interested in cooking
-- 🌱 I’m currently learning Image analysis and network analysis, categorization
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I have recently been working on the use of ML technology with a focus on the use of LLM and image analysis.
+- 💞️ I’m looking to collaborate on image analysis or biological field
+- 📫 How to reach me -> Give me comments to my repositories
 
 <!---
 KeiPome/KeiPome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
